@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "volcengine",
+  "binary": "volcengine-certcenter.exe",
+  "capability": "deploy",
+  "category": "ssl",
+  "display_name_key": "plugin.volcengine-certcenter.name",
+  "icon": "volcengine.png",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "volcengine-certcenter",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
